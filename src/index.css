@@ -1,0 +1,122 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.nav_in{
+  font-weight: 900!important;
+  color: rgb(243, 246, 246)!important;
+  background-color: rgb(56, 161, 165);
+}
+.nav-link{
+padding: 18px 20px!important;
+font-size: 18px;
+font-weight: 500;
+}
+.input{
+margin-bottom: 14px!important;
+}
+label{
+  padding-bottom: 5px!important;
+}
+nav{
+  padding: 0!important;
+}
+.search-btn button{
+  border: 1px solid rgb(56, 161, 165)!important;
+
+  color: rgb(56, 161, 165)!important ;
+}
+.search-btn button:hover{
+  background-color: rgb(56, 161, 165)!important;
+  color: white!important;
+}
+.navbar-brand{
+color:rgb(56, 161, 165)!important ;
+}
+.navbar{
+  padding-top: 25px!important;
+  padding-bottom: 15px!important;
+  border-bottom: 1px solid rgb(56, 161, 165)!important;;
+
+}
+.navbar input{
+  color: rgb(56, 161, 165)!important ;
+  }
+.navbar input:focus{
+box-shadow:-1px -1px 3px 3px rgb(56, 161, 165)!important ;
+}
+.jumbotron{
+  padding-top: 50px!important;
+}
+.faqs_right{
+  height: 500px;
+  overflow: auto;
+}
+section{
+  background-image: url(images/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.accordian{
+  background-color: rgb(255, 255, 255,0.2)!important;
+}
+
+.btn-started{
+  padding: 10px 30px;
+  border-radius: 25px;
+  border: 2px solid rgb(56, 161, 165);
+  text-decoration: none!important;
+  color: #565387;
+  font-size: 18px;
+  transition: 0.5s;
+  }
+  .btn-started:hover{
+    background-color:rgb(56, 161, 165) ;
+    color: white;
+  }
+  
+  strong{
+    color: rgb(56, 161, 165);
+    padding-left: 8px;
+  }
+
+  .submit-btn{
+color: rgb(56, 161, 165)!important;
+border: 1px solid rgb(56, 161, 165);
+outline-color:rgb(56, 161, 165)!important ;
+outline: none!important;
+border: 1px solid rgb(56, 161, 165)!important ;
+  }
+  .submit-btn:hover{
+    color: white!important;
+    background: rgb(56, 161, 165)!important;
+  
+      }
+@-webkit-keyframes mymove {
+  0% {transform:translateY(10px)}
+  100% {transform:translateY(-10px)}
+}
+
+@keyframes mymove {
+  0% {
+    transform:translateY(10px);
+  }
+  100% {
+    transform:translateY(-10px);
+  }
+}
+.animated{
+  width: 100%;
+  height: auto;
+    animation: mymove 1s ease-in-out infinite alternate-reverse both;
+  }
