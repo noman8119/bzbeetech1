@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bzbeetech1/static/css/main.592db36f.chunk.css",
+    "main.js": "/bzbeetech1/static/js/main.57faba04.chunk.js",
+    "main.js.map": "/bzbeetech1/static/js/main.57faba04.chunk.js.map",
+    "runtime-main.js": "/bzbeetech1/static/js/runtime-main.fb982ba7.js",
+    "runtime-main.js.map": "/bzbeetech1/static/js/runtime-main.fb982ba7.js.map",
+    "static/css/2.6293a573.chunk.css": "/bzbeetech1/static/css/2.6293a573.chunk.css",
+    "static/js/2.51ce1658.chunk.js": "/bzbeetech1/static/js/2.51ce1658.chunk.js",
+    "static/js/2.51ce1658.chunk.js.map": "/bzbeetech1/static/js/2.51ce1658.chunk.js.map",
+    "index.html": "/bzbeetech1/index.html",
+    "static/css/2.6293a573.chunk.css.map": "/bzbeetech1/static/css/2.6293a573.chunk.css.map",
+    "static/css/main.592db36f.chunk.css.map": "/bzbeetech1/static/css/main.592db36f.chunk.css.map",
+    "static/js/2.51ce1658.chunk.js.LICENSE.txt": "/bzbeetech1/static/js/2.51ce1658.chunk.js.LICENSE.txt",
+    "static/media/about.9515187f.png": "/bzbeetech1/static/media/about.9515187f.png",
+    "static/media/index.css": "/bzbeetech1/static/media/bg.58b7b188.jpg",
+    "static/media/home.bf5c9c84.png": "/bzbeetech1/static/media/home.bf5c9c84.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb982ba7.js",
+    "static/css/2.6293a573.chunk.css",
+    "static/js/2.51ce1658.chunk.js",
+    "static/css/main.592db36f.chunk.css",
+    "static/js/main.57faba04.chunk.js"
+  ]
+}
